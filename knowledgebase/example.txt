@@ -1,0 +1,108 @@
+# Example Knowledge Base
+
+This is an example knowledge base file that can be used to train the voice AI assistant.
+
+## General Information
+
+The voice AI trainer is a system designed to process and understand voice input, generate appropriate responses, and maintain a knowledge base for accurate information retrieval.
+
+## Key Features
+
+1. Speech-to-Text Processing
+   - Converts spoken language into text
+   - Supports multiple languages
+   - Provides timestamp information
+
+2. Text-to-Speech Generation
+   - Converts text responses into natural-sounding speech
+   - Multiple voice options available
+   - Adjustable speech parameters
+
+3. Knowledge Base Management
+   - Stores and organizes information
+   - Supports semantic search
+   - Easy to update and maintain
+
+## Usage Guidelines
+
+1. Upload audio files in supported formats (WAV, MP3, M4A)
+2. Add knowledge base files in text format
+3. Use the API endpoints to interact with the system
+4. Monitor system health through the health check endpoint
+
+## Best Practices
+
+- Keep knowledge base files well-organized
+- Use clear and concise language
+- Update information regularly
+- Test the system with various inputs
+- Monitor system performance
+
+# Company Information
+
+## About Our Company
+We are a technology company focused on developing innovative solutions for businesses. Founded in 2020, we have grown to become a leader in AI-powered business solutions.
+
+## Mission and Values
+Our mission is to empower businesses with cutting-edge technology solutions. We value:
+- Innovation and creativity
+- Customer success
+- Ethical AI development
+- Team collaboration
+- Continuous learning
+
+## Products and Services
+1. AI-Powered Analytics Platform
+   - Real-time data analysis
+   - Predictive analytics
+   - Custom reporting
+
+2. Business Process Automation
+   - Workflow optimization
+   - Task automation
+   - Integration services
+
+3. Customer Support Solutions
+   - AI-powered chatbots
+   - Multi-channel support
+   - Analytics dashboard
+
+## Employee Benefits
+- Competitive salary
+- Health insurance
+- 401(k) matching
+- Remote work options
+- Professional development
+- Flexible hours
+
+## Office Locations
+- Headquarters: San Francisco, CA
+- Development Center: Austin, TX
+- European Office: London, UK
+
+## Contact Information
+- General Inquiries: info@company.com
+- Support: support@company.com
+- HR: hr@company.com
+
+## Company Policies
+1. Remote Work Policy
+   - Flexible work hours
+   - Required equipment provided
+   - Regular virtual meetings
+
+2. Professional Development
+   - Annual training budget
+   - Conference attendance
+   - Certification support
+
+3. Code of Conduct
+   - Ethical guidelines
+   - Diversity and inclusion
+   - Professional behavior
+
+## Emergency Procedures
+- Fire evacuation routes
+- Emergency contacts
+- First aid locations
+- IT support hotline 
